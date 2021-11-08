@@ -1,2 +1,3 @@
-# NutriBraniac
-NutriBraniac is a website that is helping people in their fitness desires who are unable to find necessary fitness-related information. Front-end development using Bootstrap, HTML and CSS, and back-end development using MySQL
+Upload public_html Folder in to ur host
+craete a database without a password[Databse Name must be "nutri" 
+upload a sql file to the database
